@@ -3,7 +3,7 @@
  namespace App\Model;
 
  class User{
-   public string $table ='user'; 
+   public string $table ='users'; 
  }
 
 
